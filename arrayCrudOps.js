@@ -1,4 +1,4 @@
-const { GraphQLServer, PubSub } = require('graphql-yoga')
+const { GraphQLServer } = require('graphql-yoga')
 const _ = require('lodash')
 
 let logs = [
